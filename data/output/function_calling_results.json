@@ -1,0 +1,10 @@
+[
+    {
+        "prompt": "What is the sum of INT_MAX and INT_MIN?",
+        "name": "fn_add_numbers",
+        "parameters": {
+            "a": -2147483648,
+            "b": -2147483648
+        }
+    }
+]
